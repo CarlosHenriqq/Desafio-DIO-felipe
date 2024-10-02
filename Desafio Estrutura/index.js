@@ -18,7 +18,7 @@ if(qntXp < 1000){
 } else if (qntXp >= 8001 && qntXp <=9000){
     nivelHeroi = "Ascendente"
 }else if (qntXp >= 9001 && qntXp <= 10000){
-    nivelHeroi = "Imortaç"
+    nivelHeroi = "Imortal"
 } else {
     nivelHeroi="Radiante"
 }
